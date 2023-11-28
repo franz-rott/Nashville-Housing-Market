@@ -8,7 +8,7 @@ This project aims to analyze and visualize the Nashville housing market. It invo
 ### Dependencies
 - SQL Server or any SQL-based database system for data cleaning.
 - Tableau Desktop or Tableau Public for data visualization.
-
+ 
 ### Installing
 - Ensure that a SQL-based database system is installed and running.
 - Install Tableau Desktop or use Tableau Public for visualizations.
